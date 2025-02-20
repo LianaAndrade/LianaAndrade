@@ -1,4 +1,4 @@
-<h2> I'm a systems programmer! 💻<h2>
+<h2> I'm a systems programmer! ;) 💻<h2>
 
 
 <div align="left">
